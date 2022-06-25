@@ -1,16 +1,16 @@
 ![logo](logo.png)
 --
 
-A dark and light theme for Jekyll, inspired by Dash UI for Atom. 🌒☀
+Un tema blanco/negro editado por mi, pero inspirado en Dash UI para Atom. 🌒☀
 
 ![Build Tag](https://github.com/bitbrain/jekyll-dash/actions/workflows/build-tag.yml/badge.svg)
 [![license](https://img.shields.io/github/license/bitbrain/jekyll-dash.svg?style=flat-square)](LICENSE.MD)
 [![Gem](https://badgen.net/rubygems/v/jekyll-dash)](https://badgen.net/rubygems/v/jekyll-dash "View this project in Rubygems")
 [![Downloads](https://ruby-gem-downloads-badge.herokuapp.com/jekyll-dash)](https://rubygems.org/gems/jekyll-dash "Number of Gem downloads")
 ---
-This theme for [Jekyll](https://jekyllrb.com/) has been inspired by [dash-ui](https://atom.io/themes/dash-ui), a dark theme for [Atom](https://atom.io).
+Este es un template hecho para [Jekyll](https://jekyllrb.com/) y ha sido inspirado en [dash-ui](https://atom.io/themes/dash-ui), un tema de fondo obscuro para [Atom](https://atom.io).
 
-[![design](theme.gif)](http://bitbrain.github.io)
+[![design](theme.gif)](http://chaoticgeniu5.github.io)
 
 ## Features
 
