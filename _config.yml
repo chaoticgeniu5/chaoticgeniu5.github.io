@@ -20,7 +20,7 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: bitbrain-github-io
+    shortname: chaoticgeniu5
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
